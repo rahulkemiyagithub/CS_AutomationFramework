@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+
+<listeners>
+		<listener class-name="com.mystore.utilities.ExtentListenerClass" />
+		
+</listeners>
+
+  <test name="Test">
+  <classes>
+  	
+  	<class name = "com.mystore.testcases.TC_ProductPageTest" />
+  	
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

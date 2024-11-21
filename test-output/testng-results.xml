@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-20T11:28:08 IST" name="Default suite" finished-at="2024-11-20T11:30:02 IST" duration-ms="114189">
+    <groups>
+    </groups>
+    <test started-at="2024-11-20T11:28:08 IST" name="Default test" finished-at="2024-11-20T11:30:02 IST" duration-ms="114189">
+      <class name="com.mystore.testcases.TC_ProductPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@62ddbd7e]" started-at="2024-11-20T11:28:08 IST" name="setUp" finished-at="2024-11-20T11:28:20 IST" duration-ms="11842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBuyProduct()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@62ddbd7e]" started-at="2024-11-20T11:28:20 IST" name="verifyBuyProduct" finished-at="2024-11-20T11:29:25 IST" duration-ms="65329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBuyProduct -->
+        <test-method signature="verifySearchProduct()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@62ddbd7e]" started-at="2024-11-20T11:29:25 IST" name="verifySearchProduct" finished-at="2024-11-20T11:29:41 IST" duration-ms="16080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchProduct -->
+        <test-method signature="verifyToAddWishlistProduct()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@62ddbd7e]" started-at="2024-11-20T11:29:41 IST" name="verifyToAddWishlistProduct" finished-at="2024-11-20T11:29:59 IST" duration-ms="17613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyToAddWishlistProduct -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mystore.testcases.TC_ProductPageTest@62ddbd7e]" started-at="2024-11-20T11:29:59 IST" name="closeBrowser" finished-at="2024-11-20T11:30:02 IST" duration-ms="3263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.mystore.testcases.TC_ProductPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
